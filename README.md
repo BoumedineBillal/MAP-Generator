@@ -64,6 +64,20 @@ The GUI is built using the `tkinter` library, and users can interactively design
 
 Here is an example of a generated Sokoban map saved as a text file:
 
+OOOOOOOOOOOOOOOOOOOOOOOOO
+O     R                 O
+O           B          SO
+ OO                OOOOOO
+  O   B   B       O      
+  O               O      
+  O     B    S  S OOOOO  
+ OO                    O 
+ O                      O
+ O       *              O
+ OO                    OO
+  OOOOOOO      S       O 
+        OOO           OO 
+          OOOOOOOOOOOOO  
 
 ## Screenshots
 
