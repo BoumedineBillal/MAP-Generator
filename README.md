@@ -1,6 +1,6 @@
 # Sokoban Map Generator
 
-![Sokoban Map Generator](images/sokoban_gui.png)
+![Sokoban Map Generator](images/Capture1.PNG)
 
 ## Description
 
@@ -85,7 +85,7 @@ O           B          SO
 
 Here’s a screenshot of the application in action:
 
-![Sokoban Screenshot](images/sokoban_screenshot.png)
+![Sokoban Screenshot](images/Capture3.PNG)
 
 ## License
 
