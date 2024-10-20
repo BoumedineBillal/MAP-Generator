@@ -1,6 +1,6 @@
 # Sokoban Map Generator
 
-![Sokoban Map Generator](images/Capture1.PNG)
+![Sokoban Map Generator](screenshots/Capture1.PNG)
 
 ## Description
 
@@ -85,8 +85,8 @@ O           B          SO
 
 Here’s a screenshot of the application in action:
 
-![Sokoban Screenshot](images/Capture3.PNG)
+![Sokoban Screenshot](screenshots/Capture3.PNG)
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
